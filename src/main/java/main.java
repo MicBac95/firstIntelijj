@@ -3,8 +3,8 @@ public class main {
         System.out.println("Hello Git second user");
         String a = "adam";
         hello hello = new hello("Adam", "dwa");
-        System.out.println(hello.helloMethod("adam","two"));
-        
+        System.out.println(hello.helloMethod("ada2m","two"));
+
     }
 
 }
